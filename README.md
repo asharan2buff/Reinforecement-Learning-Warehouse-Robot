@@ -1,4 +1,6 @@
+# Warehouse Robot using Q learning and Double Q learning in Deterministic and Stochastic environments
 
 
-https://github.com/user-attachments/assets/74bdb010-83b9-41d1-b44f-4e74d26e3033
+https://github.com/user-attachments/assets/9e518bbf-8a20-4a9e-a1f6-895c865863a6
+
 
