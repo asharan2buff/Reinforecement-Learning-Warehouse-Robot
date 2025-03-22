@@ -1,6 +1,6 @@
 # Warehouse Robot using Q learning and Double Q learning in Deterministic and Stochastic environments
 
-##Environment Scenarios
+## Environment Scenarios
 
 ## Warehouse Robot
 Scenario: A robot operates in a warehouse grid where its task is to pick up items from specified locations
